@@ -25,10 +25,34 @@ This project involves the conceptual design and layout of Netflix on the Apple V
 - **Home Screen**: Showcases the spatial arrangement of categories and featured content, allowing users to navigate through the library seamlessly.
 - **Content Streaming**: Visualizes the spatial layout for content playback, including controls and interactive elements for an enhanced viewing experience.
 
-## Getting Started
+## Wireframe Previews
 
-To explore the wireframes and designs:
+Here are some previews of the wireframes:
 
-1. Press Z for fill the screen: 
-   ```sh
-   https://www.figma.com/proto/5i4IARCoPzT7caGqQ0oJqv?node-id=0-1&t=Jm3PypLV54Trm50t-6
+### Environment
+
+![Login Screen](https://drive.google.com/uc?export=view&id=1QqeJ10Vn_Bu7SLOurgQjWlRoOn6VA7vg)
+
+### Popup Screen
+
+![Popup Screen](https://drive.google.com/uc?export=view&id=1xehmEBpAc_wqn5UMfU1FA2x2GD3KSM3K)
+
+### Home Screen
+
+![Home Screen](https://drive.google.com/uc?export=view&id=15Bkv3EzZ7v82-I6X-i3CSJFEnPzoTA_f)
+
+### Content Streaming
+
+![Content Streaming](https://drive.google.com/uc?export=view&id=1VsR5zvvPlTFjxyyaNSlSsBeXz6pIn0gH)
+
+
+
+
+## Getting Started 
+
+To explore the wireframes and designs for Netflix on Apple Vision Pro:
+
+1. **Open the Link**: Click on the following link to access the Figma prototype:
+   [Figma Prototype](https://www.figma.com/proto/5i4IARCoPzT7caGqQ0oJqv?node-id=0-1&t=Jm3PypLV54Trm50t-6)
+2. **Press Z for Full Screen**: Once the Figma prototype is open, press the `Z` key to enter full-screen mode, providing an immersive view of the wireframes.
+3. **Select Netflix**: Navigate through the interface by selecting the Netflix option to explore the detailed spatial wireframes and user interactions.
